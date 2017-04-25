@@ -3,7 +3,7 @@ layout: post
 title: Cinematography in Be Kind Rewind
 img: post-1.jpg
 ---
->"Cinematography: Motion picture photagrhy, litrally 'wrinting in movement'"(Corrian and White, 463)
+>"Cinematography: Motion picture photography, literally 'writing in movement'"(Corrigan and White, 463)
 
 
 One of _Be Kind Rewinds_(2008) themes is, Community and people inside the community. This is
@@ -35,7 +35,7 @@ In Contrast in _Fantastic Mr fox_(2009) it tends to use a more styleised approch
 To Conclude though the use of camera distance It can help to emphsize the characters actions and color can be used to ground the world films in a imitation of reality
 
 
-## bilbography
+## bibliography
 Corrigan, Timothy, and Patricia White. The Film Experience: An Introduction. 4 edition. Boston: Bedford/St. Martin’s, 2014.
 
 ## Filmography
