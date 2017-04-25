@@ -21,7 +21,7 @@ that the characters are rebelling agaest the norm and trying to set apart from t
 
 The Performance brought by the three main characters helped to show how diffrent the characters were in relation to  the rest of the characters. Corrigan and White(73) describe performnce as the ways that actors use langaguge, exspressions and body guestures. In fig2 there is an contrast between the girl and the adults in the party where the girl is not enjoying the party but every one else is. This is shown though use of blocking Corrigan and White(76) describe bloking as the placment of of actors in the setting. The girl is all by herself on the couch but all of the adults are talking amosed each other. This sugests that the girl doesn't want to be there and she sees herself as diffrent then the rest of the adults in the party.
 
-(opining scene)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QFOcXaXQsF4" frameborder="0" allowfullscreen></iframe>
 #### fig3
 
 to conculude though the use of clothing and performance in this film, it helps to examplify the theme of being diffrent
