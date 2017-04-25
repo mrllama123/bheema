@@ -11,7 +11,7 @@ The contrast between the main characters clothes compared to everybody else and 
 
 Costumes defined By Corrgan and White(77) are clothing and other realted things that are worn by the actors,
 They can help to describe characters motivations and actions. _We Are the Best_ uses clothing as a way to illsyrait
-that the characters are rebelling agaest the norm and trying to set apart from the rest of society. fig 1 shows us  There is a clear diffrence between what the girls are wearing two of them are wearing very plain and simplistic clothing that is synomus with 80's style but the two others girls (which are two of the main characters) contrast that by wearing jearsys that are a bit too big for them and also having diffrent hair styles, mowhawk and short hair.This sets them apart from the two girls clearly showing that they want to be diffrent.
+that the characters are rebelling agaest the norm and trying to set apart from the rest of society. fig 1 shows us  There is a clear diffrence between what the girls are wearing two of them are wearing very plain and simplistic clothing that is synomus with 80's style but the two others girls (which are two of the main characters) contrast that by wearing jearsys that are a bit too big for them and also having diffrent hair styles, mowhawk and short hair.This sets them apart from the two other girls who have similar haircuts clearly showing that they want to be diffrent.
 
 [fig1]({{site.baseurl}}/img/post2/fig1.jpg)
 #### fig1
@@ -21,7 +21,7 @@ The Performance brought by the three main characters helped to show how diffrent
 (opining scene)
 #### fig2
 
-
+to conculude though the use of clothing and performance in this film, it helps to examplify the theme of being diffrent
 
 ## Bilbography
 Corrigan, Timothy, and Patricia White. 2014. The Film Experience: An Introduction. 4 edition. Boston: Bedford/St. Martin’s.
