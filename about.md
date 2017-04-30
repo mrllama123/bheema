@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 img: about.jpg
 ---
-In this eassey blog seris i will look at mise en scene, cinematography, editing and sound in a selection of movies and ask the question, How do the realate and complement the ideas and themes of the movie.   
+This essay series will explore how different aspect's that make up a selection of films frames, Specifically mise en scene, cinematography, editing and sound and how they can relate to an idea or theme of the films.

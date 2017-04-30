@@ -10,7 +10,7 @@ One of _Be Kind Rewinds_(2008) themes is, Community and people inside the commun
 shown Though the use of Cinematography in two different ways, The color pallet of the film and the distance of the shots.
 
 
-Corriagan and white(109) define camera distance as the distance that the subjects are in relation
+Corrigan and white(109) define camera distance as the distance that the subjects are in relation
 to the camera. In terms of Be Kind Rewind most of the film is Centered around the characters and local comunity This is shown by the fact that there is only one ariel shot shot (see fig 1) in the entire movie which is The only time that the film shows the wider world which is only used to set location of the film. fig2 and fig3 are some of the examples of how the films Camera puts emphases of the characters and the situations they get into. an exsample of this is fig2 which uses a medium shot Corrian and White(111) define a medium shot as "describes a middle ground in which we see some background detail in the frame. The human body is framed from waist and hips up". In fig2 the viewer sees the three main characters (Jerry, Mike and Mr Fletcher) and some kids in the vhs store. This shot helps to give enough detial of the characters exspesssions and interractions but also give context to where the charcters are in world. Which the location (vhs store) is located inside the comunity (see fig3) showing that this shot is about the people inside the comunity.
 
 ![fig1]({{site.baseurl}}/img/post1/fig1.PNG)
@@ -30,9 +30,6 @@ In Contrast in _Fantastic Mr fox_(2009) it tends to use a more styleised approch
 
 ![fig4]({{site.baseurl}}/img/post1/fig4.jpg)
 ##### Fig4
-
-
-To Conclude though the use of camera distance It can help to emphsize the characters actions and color can be used to ground the world films in a imitation of reality
 
 
 ## bibliography
