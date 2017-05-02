@@ -3,7 +3,7 @@ layout: post
 title: conclusion
 img: post-5.jpg
 ---
-This essay series has explored how different aspect's that make up a selection of films frames, Specifically mise en scene, cinematography, editing and sound and how they can relate to an idea or theme of the films. 
+This essay series has explored how different aspect's that make up a selection of film form, Specifically mise en scene, cinematography, editing and sound and how they can emphasize an idea or theme in a selection of films. 
 
 In _Be kind Rewind_(2008) the use of camera distance, Specifically mid shot can help to emphasize the characters actions and color can be used to ground the world films in a imitation of reality Which helps emphasize the theme of Community and people inside the community
 
