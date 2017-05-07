@@ -21,9 +21,8 @@ Costumes defined By Corrigan and White(77) are clothing and other related things
 The Performance brought by the three main characters helped to show how different the characters were in relation to  the rest of the characters. Corrigan and White(73) describe performance as the ways that actors use language, expressions and body gestures. In fig2 there is an contrast between the girl and the adults in the party where the girl is not enjoying the party but everyone else is. This is shown through use of blocking Corrigan and White(76) describe blocking as the placement of of actors in the setting. The girl is all by herself on the couch but all of the adults are talking amused each other. This suggests that the girl doesn't want to be there and she sees herself as different then the rest of the adults in the party.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QFOcXaXQsF4" frameborder="0" allowfullscreen></iframe>
-#### fig3
 
-to conculude though the use of clothing and performance in this film, it helps to examplify the theme of being diffrent
+#### fig3
 
 ## Bilbography
 Corrigan, Timothy, and Patricia White. 2014. The Film Experience: An Introduction. 4 edition. Boston: Bedford/St. Martin’s.

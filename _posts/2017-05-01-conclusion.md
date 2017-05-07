@@ -13,7 +13,7 @@ _The Grand Budapest Hotel_(2014) uses continuity editing to give the scenes a se
 
 In _Spirited Away_(2003) the films soundtrack to emphasize what the character is going though when she is trying to go down the stairs and using sound effects such as squelching and footsteps to help build a unique world tie into the theme: creating a unique world that  main character get forced into.  
 
-(figure out how to tie it all together)
+
 
 ## Filmography
 Gondry, Michel. 2008. Be Kind Rewind. Comedy.
