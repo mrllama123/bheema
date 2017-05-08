@@ -3,15 +3,9 @@ layout: post
 title: conclusion
 img: post-5.jpg
 ---
-This essay series has explored how different aspect's that make up a selection of film form, Specifically mise en scene, cinematography, editing and sound and how they can emphasize an idea or theme in a selection of films. 
+This essay series has explored how different aspects of film forms, specifically mise en scene, cinematography, editing and sound. It has explored how these can emphasize a theme in a selection of films. The blogs began with an exploration of how _Be Kind Rewind_(2008) emphasized the theme of community through cinematography of camera distance and mid shots to emphasis the characters clearly. The blog then looks at the use of mise en scene to portray how difference and rebellion in society can be viewed through clothing and hair style contrasts in the characters and in performance through active blocking in a scene. The third blog shows how the use of  continuous editing gives the film a sense of logic and structure through this showing a clear relationship between sections of the movie. This contrasts with the rhythm and the short shots in the scene where Mr gustav is rushing to see one of lover's funeral, which give a sense of chaos.
 
-In _Be kind Rewind_(2008) the use of camera distance, Specifically mid shot can help to emphasize the characters actions and color can be used to ground the world films in a imitation of reality Which helps emphasize the theme of Community and people inside the community
-
-With _We Are the Best!_(2014) The Punk clothing of the main characters compared to the rest of characters is used to show the rebellious nature that the characters have and how different they want to be from everybody else this is also shown though their performance with blocking 
-
-_The Grand Budapest Hotel_(2014) uses continuity editing to give the scenes a sense of structure for example in the opening sequence every shot is connected to each other. This contrasts with the rhythm and the short shots in the scene where Mr gustav is rushing to see one of lovers funeral which give an sense of chaos    
-
-In _Spirited Away_(2003) the films soundtrack to emphasize what the character is going though when she is trying to go down the stairs and using sound effects such as squelching and footsteps to help build a unique world tie into the theme: creating a unique world that  main character get forced into.  
+In the final post it looks at two different types of sound such as diegetic and non diegetic sound were explored  to show how the films soundtrack can emphasize what the character is going though when she is trying to go down the stairs and using sound effects such as squelching and footsteps to help build a unique world that main character gets forced into. So in these posts it can be seen that a number of different forms of film have been used to help add additional layers of meaning to movies that can add detail and contrast to the films  
 
 
 
